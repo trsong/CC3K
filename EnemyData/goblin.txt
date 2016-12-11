@@ -1,0 +1,6 @@
+Race: goblin
+HP: 70
+Atk: 5
+Def: 10
+Gold: 1
+Accuracy: 50

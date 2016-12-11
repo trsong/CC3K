@@ -1,0 +1,6 @@
+Race: elves
+HP: 140
+Atk: 30
+Def: 10
+Gold: 0
+Accuracy: 100

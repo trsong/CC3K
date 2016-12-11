@@ -1,0 +1,6 @@
+Race: werewolf
+HP: 120
+Atk: 30
+Def: 5
+Gold: 1
+Accuracy: 50

@@ -1,0 +1,6 @@
+Race: orc
+HP: 180
+Atk: 30
+Def: 25
+Gold: 0
+Accuracy: 100

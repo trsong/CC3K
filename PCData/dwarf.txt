@@ -1,0 +1,6 @@
+Race: dwarf
+HP: 100
+Atk: 20
+Def: 30
+Gold: 0
+Accuracy: 100

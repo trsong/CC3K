@@ -1,0 +1,6 @@
+Race: human
+HP: 140
+Atk: 20
+Def: 20
+Gold: 0
+Accuracy: 100

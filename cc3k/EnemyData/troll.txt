@@ -1,0 +1,6 @@
+Race: troll
+HP: 120
+Atk: 25
+Def: 15
+Gold: 1
+Accuracy: 50

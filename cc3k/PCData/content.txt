@@ -1,0 +1,5 @@
+h human.txt
+d dwarf.txt
+e elves.txt
+o orc.txt
+* test.txt

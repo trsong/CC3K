@@ -1,0 +1,6 @@
+Race: dragon
+HP: 150
+Atk: 20
+Def: 20
+Gold: 1
+Accuracy: 50

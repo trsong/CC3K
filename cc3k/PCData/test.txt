@@ -1,0 +1,6 @@
+Race: test
+HP: 30000
+Atk: 20000
+Def: 20000
+Gold: 0
+Accuracy: 100

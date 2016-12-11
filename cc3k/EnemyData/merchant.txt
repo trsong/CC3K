@@ -1,0 +1,6 @@
+Race: merchant
+HP: 30
+Atk: 70
+Def: 5
+Gold: 1
+Accuracy: 50

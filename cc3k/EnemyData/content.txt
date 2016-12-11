@@ -1,0 +1,7 @@
+d dragon.txt
+w werewolf.txt
+v vampire.txt
+n goblin.txt
+t troll.txt
+x phoenix.txt
+m merchant.txt

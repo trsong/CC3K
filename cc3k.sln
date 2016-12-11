@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cc3k", "cc3k\cc3k.vcxproj", "{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "cc3kUML", "cc3kUML\cc3kUML.modelproj", "{EDC0C48B-E591-4712-BD46-67D2C4F64B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Debug|Win32.Build.0 = Debug|Win32
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Release|Win32.ActiveCfg = Release|Win32
+		{D7C88E19-78CF-4AE5-A15B-E5D6A973BDFC}.Release|Win32.Build.0 = Release|Win32
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{EDC0C48B-E591-4712-BD46-67D2C4F64B20}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
